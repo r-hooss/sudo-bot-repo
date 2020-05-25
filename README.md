@@ -1,5 +1,5 @@
 # sudo-bot-repo
- sudo봇의 레포지토리 입니다. 3번째 커밋부터 써주세요. 아니면 직접 저작권자 표시를 해주세요!
+ sudo봇의 레포지토리 입니다.
 
 # how to use
 우선 config.js에 "TOKEN"을 자신의 봇 토큰으로 바꿔주세요. 
